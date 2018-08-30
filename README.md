@@ -17,7 +17,7 @@ Configuration
 i3event requires a config-file which configures the rules that
 incoming events are matched against. The path to the configuration
 file is specified with the -config parameter. By default it will look
-in "~/i3event".
+in "~/.i3event".
 
 The format of the configuration file looks consists of one rule per
 line like this:
